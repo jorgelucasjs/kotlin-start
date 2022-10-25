@@ -6,7 +6,6 @@ class Casa /*(cor: String, vagasGaragem:Int )*/{
     var cor: String
     var vagasGaragem: Int
     
-
     /* init{
         this.cor = cor
         this.vagasGaragem = vagasGaragem
